@@ -4,6 +4,11 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/cv.pdf # you can also use external links here
-redirect: /assets/pdf/cv.pdf
 ---
+
+<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/cv.pdf' | relative_url }}">
+<script>
+  window.location.replace("{{ '/assets/pdf/cv.pdf' | relative_url }}");
+</script>
+
+Redirecting to the CV PDF...
