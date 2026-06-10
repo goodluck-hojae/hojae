@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Computer Science at UMass Amherst
+subtitle: 
 
 profile:
   align: right
