@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://goodluck-hojae.github.io/al-folio/sitemap.xml
+Sitemap: https://goodluck-hojae.github.io/sitemap.xml
