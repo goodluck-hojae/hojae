@@ -39,4 +39,4 @@ latest_posts:
   }
 </style>
 
-Hi, I'm Hojae Son, a Ph.D. candidate in Computer Science at UMass Amherst, advised by Professor Marco Serafini. I am also working as a Research Computing Assistant for <a href="https://unity.rc.umass.edu/" target="_blank" rel="noopener noreferrer">Unity Cluster</a>. My research interests are in systems for machine learning, especially LLM inference, KV cache optimization, vector databases, and graph neural network systems.
+Hi, I'm Hojae Son, a Ph.D. candidate in Computer Science at UMass Amherst, advised by <a href="https://marcoserafini.github.io/" target="_blank" rel="noopener noreferrer">Professor Marco Serafini</a>. I am also working as a Research Computing Assistant for <a href="https://unity.rc.umass.edu/" target="_blank" rel="noopener noreferrer">Unity Cluster</a>. My research interests are in systems for machine learning, especially LLM inference, KV cache optimization, vector databases, and graph neural network systems.
