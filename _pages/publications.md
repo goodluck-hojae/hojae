@@ -9,6 +9,15 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var cvLink = document.querySelector('#navbar a.nav-link[href$="/cv/"]');
+    if (cvLink) {
+      cvLink.setAttribute("href", "{{ '/assets/pdf/cv.pdf' | relative_url }}");
+    }
+  });
+</script>
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
