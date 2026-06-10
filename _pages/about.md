@@ -25,4 +25,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  header nav.navbar.sticky-top {
+    position: static !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+  }
+
+  #progress,
+  .progress-container,
+  .progress-bar {
+    display: none !important;
+  }
+</style>
+
 Hi, I'm Hojae Son, a Ph.D. candidate in Computer Science at UMass Amherst, advised by Professor Marco Serafini. My research interests are in systems for machine learning, especially LLM inference, KV cache optimization, vector databases, graph neural network systems.
